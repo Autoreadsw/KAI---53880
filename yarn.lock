@@ -2,8 +2,8 @@
 # yarn lockfile v1
 
 
-"@adiwajshing/baileys@^4.4.0":
-  version "4.4.0"
+"@adiwajshing/baileys@npm:@whiskeysockets/baileys@latest":
+  version "latest"
   resolved "https://registry.yarnpkg.com/@adiwajshing/baileys/-/baileys-4.4.0.tgz#6c39c74a29324d22aec67ddbfda890a8e5d85e37"
   integrity sha512-5gEnkJBgraLL0USzndxto8ofYhWyMFZVkpZ4rD1nPqrjBjGMt+k+YDpllpFpOfA0yxWZb6nPrr04ikQv++dz2Q==
   dependencies:
